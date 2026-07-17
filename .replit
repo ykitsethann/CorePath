@@ -18,3 +18,10 @@ expertMode = true
 [postMerge]
 path = "scripts/post-merge.sh"
 timeoutMs = 20000
+
+[userenv]
+
+[userenv.shared]
+ANTHROPIC_API_KEY = "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"
+SUPABASE_URL = "https://dfjmflonkpwdnetqutmq.supabase.co"
+SUPABASE_ANON_KEY = "sb_publishable_jATm_5D_0-FMohXmnNRNfQ_vSShohzR"
